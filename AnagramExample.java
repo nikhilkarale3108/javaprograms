@@ -32,7 +32,7 @@ class AnagramExample
 			}
 			else
 			{
-				System.out.println("Not Anagram");
+				System.out.println("Not Anagram string");
 
 			}
 
